@@ -52,18 +52,18 @@ iso-profiles
 # addgroups="video,power,disk,storage,optical,network,lp,scanner,wheel"
 
 # the same workgroup name if samba is used
-# smb_workgroup="Manjaro"
+# smb_workgroup="Cleanjaro"
 
 ################# live-session #################
 
 # unset defaults to given value
-# hostname="manjaro"
+# hostname="cleanjaro"
 
 # unset defaults to given value
-# username="manjaro"
+# username="cleanjaro"
 
 # unset defaults to given value
-# password="manjaro"
+# password="cleanjaro"
 
 # the login shell
 # defaults to bash
