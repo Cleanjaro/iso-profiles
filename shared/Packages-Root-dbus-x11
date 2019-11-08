@@ -1,6 +1,5 @@
 acpi
 amd-ucode
->i686 archlinux32-keyring
 b43-fwcutter
 bash
 btrfs-progs
@@ -79,7 +78,6 @@ lvm2
 mdadm
 nfs-utils
 rsync
-#systemd-fsck-silent # only needed with grub-quiet
 systemd-sysvcompat
 tlp
 wpa_supplicant
