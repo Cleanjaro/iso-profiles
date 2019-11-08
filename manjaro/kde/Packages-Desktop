@@ -92,7 +92,7 @@ terminus-font
 ## Package management
 pamac
 pamac-tray-appindicator
->extra fwupd 
+>extra fwupd
 
 ## Printing
 >extra cups

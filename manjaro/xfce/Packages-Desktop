@@ -87,6 +87,7 @@ ttf-bitstream-vera       # xfce4-terminal default Monospace
 
 ## Package management
 pamac
+>extra fwupd
 
 ## Java
 >extra jdk8-openjdk
@@ -191,6 +192,7 @@ xcursor-simpleandsoft
 xcursor-vanilla-dmz-aa
 kvantum-theme-matcha
 kvantum-theme-arc
+cleanjaro-wallpapers-by-sgs
 
 ## Applications
 catfish
