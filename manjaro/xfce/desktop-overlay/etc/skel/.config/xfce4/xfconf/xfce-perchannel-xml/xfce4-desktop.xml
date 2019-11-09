@@ -16,6 +16,7 @@
     <property name="file-icons" type="empty">
       <property name="show-removable" type="bool" value="false"/>
     </property>
-    <property name="icon-size" type="uint" value="32"/>
+    <property name="icon-size" type="uint" value="38"/>
+    <property name="tooltip-size" type="double" value="96.000000">
   </property>
 </channel>

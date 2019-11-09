@@ -20,7 +20,7 @@
       <property name="role" type="string" value="xfce4-panel-12965750720"/>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="background-style" type="uint" value="0"/>
-      <property name="size" type="uint" value="27"/>
+      <property name="size" type="uint" value="34"/>
       <property name="mode" type="uint" value="0"/>
       <property name="autohide-behavior" type="uint" value="0"/>
     </property>
