@@ -74,7 +74,7 @@ yay
 downgrade
 
 # Packages to handle pacdiffs
-meld
+kompare
 vim
 
 ## Fonts

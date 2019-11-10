@@ -69,7 +69,6 @@ downgrade
 # Packages to handle pacdiffs
 meld
 vim
-bashrc-cleanjaro
 
 ## Fonts
 cantarell-fonts
@@ -233,6 +232,7 @@ unrar  # RAR archive support
 
 ## Settings packages
 cleanjaro-xfce-settings
+bashrc-cleanjaro
 
 ## Xorg Input Drivers
 xf86-input-elographics
