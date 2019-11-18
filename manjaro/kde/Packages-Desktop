@@ -80,6 +80,7 @@ vim
 ## Fonts
 cantarell-fonts
 ttf-roboto
+noto-fonts
 noto-fonts-cjk           # asian fonts - needed big package, ~76 mb compressed
 >extra noto-fonts-emoji
 terminus-font
@@ -212,7 +213,7 @@ dmidecode # for inxi -m output
 htop
 imagewriter
 inxi
-plasmafox
+firefox
 manjaro-settings-manager-kcm
 manjaro-settings-manager-knotifier
 neofetch

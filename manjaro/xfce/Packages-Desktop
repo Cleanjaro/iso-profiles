@@ -73,7 +73,9 @@ vim
 ## Fonts
 cantarell-fonts
 ttf-roboto
+noto-fonts
 noto-fonts-cjk           # asian fonts - needed big package, ~76 mb compressed
+>extra noto-fonts-emoji
 terminus-font
 ttf-bitstream-vera       # xfce4-terminal default Monospace
 >extra ttf-inconsolata
@@ -113,7 +115,7 @@ pamac
 >extra python-reportlab # For hplip
 
 ## GTK3
-gtk3-classic
+#gtk3-classic
 
 ## Display manager
 lightdm
