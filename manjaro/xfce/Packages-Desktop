@@ -114,9 +114,6 @@ pamac
 >extra python-pyqt5  # For hplip gui
 >extra python-reportlab # For hplip
 
-## GTK3
-#gtk3-classic
-
 ## Display manager
 lightdm
 lightdm-gtk-greeter
@@ -239,9 +236,7 @@ bashrc-cleanjaro
 ## Xorg Input Drivers
 xf86-input-elographics
 xf86-input-evdev
-xf86-input-keyboard
 xf86-input-libinput
-xf86-input-mouse
 xf86-input-void
 
 ## Xorg Server and Graphics

@@ -4,7 +4,7 @@ acpi
 acpid
 amd-ucode
 b43-fwcutter
-bash-completion
+bash
 btrfs-progs
 bzip2
 coreutils
@@ -16,7 +16,6 @@ device-mapper
 dhclient
 dhcpcd
 diffutils
-dkms
 dmraid
 dnsmasq
 dosfstools
@@ -35,21 +34,15 @@ glibc
 grep
 grub
 gzip
-haveged
 inetutils
 intel-ucode
 iproute2
-iptables
 iputils
-ipw2100-fw
-ipw2200-fw
 jfsutils
 KERNEL
 less
 licenses
-linux-firmware
 logrotate
-lsb-release
 lvm2
 man-db
 man-pages
@@ -77,6 +70,7 @@ shadow
 spectre-meltdown-checker
 sudo
 sysfsutils
+systemd
 systemd-sysvcompat
 tar
 texinfo
@@ -88,4 +82,5 @@ wget
 which
 wpa_supplicant
 xfsprogs
+xz
 zsh
