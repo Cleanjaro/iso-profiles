@@ -268,10 +268,10 @@ xdg-su
 ## Misc
 manjaro-hotfixes
 >basic squashfs-tools
+libheif # Support for High Efficiency Image File Format
 
 ## Keep kernels updated to newest sets
 linux-latest
-#latest-lts
 
 ## Flatpak support
 >extra xdg-desktop-portal

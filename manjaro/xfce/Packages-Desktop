@@ -270,14 +270,8 @@ manjaro-hotfixes
 xiccd # enable color profile settings
 transmission-gtk
 timeshift
+libheif # Support for High Efficiency Image File Format
 
 ## Keep kernels updated to newest sets
 linux-latest
-#latest-lts
 
-## Handshake tools
-#faucet-tool
-#hnsd-git
-#hsd-git
-#veracrypt
-#cryptoseed
