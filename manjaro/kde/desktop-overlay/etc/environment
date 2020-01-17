@@ -3,5 +3,5 @@
 #
 # Syntax: simple "KEY=VAL" pairs on separate lines
 #
-DIFFPROG=/usr/bin/kompare
+DIFFPROG=/usr/bin/meld
 
