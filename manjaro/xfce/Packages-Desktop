@@ -270,6 +270,7 @@ xiccd # enable color profile settings
 transmission-gtk
 timeshift
 libheif # Support for High Efficiency Image File Format
+veracrypt
 
 ## Keep kernels updated to newest sets
 linux-latest
