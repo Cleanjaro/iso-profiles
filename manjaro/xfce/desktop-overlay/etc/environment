@@ -5,4 +5,5 @@
 #
 QT_QPA_PLATFORMTHEME=qt5ct
 DIFFPROG=/usr/bin/meld
+RADV_PERFTEST=aco
 

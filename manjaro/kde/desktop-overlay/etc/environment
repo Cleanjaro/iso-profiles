@@ -4,4 +4,5 @@
 # Syntax: simple "KEY=VAL" pairs on separate lines
 #
 DIFFPROG=/usr/bin/meld
+RADV_PERFTEST=aco
 
